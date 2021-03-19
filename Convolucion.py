@@ -47,5 +47,3 @@ print(gray.shape)
 cv2.imshow('image', gray)
 kernel = np.ones((5,5))
 resultado = convolution(gray, kernel)
-
-"**codigo funcional, correr en terminal por problemas de librerias y cv2**"
