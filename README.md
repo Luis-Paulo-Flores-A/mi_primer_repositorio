@@ -6,12 +6,8 @@ Se encuentran los archivos de convolución y padding de imágenes, así como la 
 
 Despues de clonar este repositorio, es necesario instalar: ·Python3 ·OpenCV
 
-Hay cuatro códigos diferentes:
+Hay dos códigos diferentes:
 
-·main.py 
+·Convolucion.py 
 
-·transformacion.py
-
-·FiltroBlur.py: recibe una imagen, la suaviza y elimina el ruido con el filtro gaussiano.
-
-·Filtroo.py
+·padding.py
